@@ -1,7 +1,11 @@
 
 
-![OcularAI]()
-<p align="centre"> "Redefining the Sense of Sight." </p>
+![OcularAI](assets/cover.png)
+
+
+<h3 align="center"> 
+<i>Redefining the "Sense of Sight"</i> 
+</h3>
 
 ---
 
@@ -24,6 +28,8 @@ OcularAI's **Intelligent Data Engine** is one of the features that sets it apart
 
 Conventionally, most AI solutions are developed, deployed once, and then completely overlooked. But our system uses the erroneous data that has been reported and the real-time data that has been collected to enhance the underlying network. More specifically, the algorithm relies on a feedback loop, during which it continuously gathers new data from the real-time and retrains its underlying structure. 
 
+![Data Engine](assets/data-eng.png)
+
 For this reason, we anticipate that our infused neural network will gradually get better over time through a process of iterative improvement.
 
 
@@ -32,7 +38,9 @@ For this reason, we anticipate that our infused neural network will gradually ge
 **Currency Recognition** In our everyday lives, we exchange cash with one another frequently. People who are visually impaired are especially vulnerable to deception because of their inability to distinguish between common pieces. Our method allows the user to effectively categorise denominations.
 
 
-> *The project is still in the early stages of development, so my team and I are being deliberately vague about details. But very soon everything will be open to the public.*
+[^1]: > *The project is still in the early stages of development, so my team and I are being deliberately vague about details. But very soon everything will be open to the public.*
+
+![Footer](assets/footer.png)
 
 
 
