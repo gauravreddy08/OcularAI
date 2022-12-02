@@ -37,8 +37,14 @@ For this reason, we anticipate that our infused neural network will gradually ge
 
 **Currency Recognition** In our everyday lives, we exchange cash with one another frequently. People who are visually impaired are especially vulnerable to deception because of their inability to distinguish between common pieces. Our method allows the user to effectively categorise denominations.
 
+<img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Mosaics_0_3d3a2b77766fd36d2918.jpg" width="333"/> <img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Mosaics_0_2b99032d24aa99013348.jpg" width="333"/> <img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Mosaics_0_102028fe0431b1c5253b.jpg" width="333"/>
 
-[^1]: > *The project is still in the early stages of development, so my team and I are being deliberately vague about details. But very soon everything will be open to the public.*
+<img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Results_20_6e838517ed93d0f8e223.png" width="500"/> <img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Results_20_4405e36ebfe6351a87c9.png" width="500"/> <img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Results_20_dcef9489660bdb659f92.png" width="500"/> <img src="https://api.wandb.ai/files/gaurxvreddy/OcularAI/23onrmqm/media/images/Results_20_de48a66a47defd7d7583.png" width="500"/>
+
+
+
+
+> *The project is still in the early stages of development, so my team and I are being deliberately vague about details. But very soon everything will be open to the public.*
 
 ![Footer](assets/footer.png)
 
