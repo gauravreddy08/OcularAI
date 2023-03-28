@@ -1,6 +1,12 @@
 
 
 ![OcularAI](assets/cover.png)
+<div align="center">
+<a href="https://paperswithcode.com/sota/face-recognition-on-lfw?p=magiceye-an-intelligent-wearable-towards"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magiceye-an-intelligent-wearable-towards/face-recognition-on-lfw"></a>
+<a href="https://paperswithcode.com/sota/object-detection-on-coco-1?p=magiceye-an-intelligent-wearable-towards"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magiceye-an-intelligent-wearable-towards/object-detection-on-coco-1"></a>
+<a href="https://arxiv.org/abs/2303.13863"><img src="https://img.shields.io/badge/arXiv-2303.13863-b31b1b.svg">
+</div>
+
 
 
 <h3 align="center"> 
@@ -8,6 +14,7 @@
 </h3>
 
 ---
+
 
 OcularAI is an intelligent wearable device invention intended to assist the blind. In everyday life, the Unsighted, also known as the Blind, encounter a series of difficult obstacles. Walking across the street, preparing a meal, and furthering their education all become laborious endeavours. Not to mention the plethora of accidents involving the unsighted population as a whole.
 
